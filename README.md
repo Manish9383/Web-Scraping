@@ -14,9 +14,9 @@ Create new notebook and lakehouse
 Import all required python library
 ```
 ### Step-4
-```
+
 Run python [script](https://github.com/Manish9383/Web-Scraping/blob/main/webscarp.ipynb)
-```
+
 ### Step-5
 ```
 Create new pipeline
