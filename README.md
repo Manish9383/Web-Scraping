@@ -11,7 +11,7 @@ Create new notebook and lakehouse
 ```
 ### Step-3
 ```
-import all required python library
+Import all required python library
 ```
 ### Step-4
 ```
@@ -19,8 +19,8 @@ Run python script
 ```
 ### Step-5
 ```
-create new pipeline
- 1.add pipeline activity
+Create new pipeline
+ 1.Add pipeline activity
  2.Setup pipeline and schedule activity.
  ```
 ### Step-6
