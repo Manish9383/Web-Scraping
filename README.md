@@ -25,11 +25,11 @@ Create new pipeline
 ```
 ### Step-6
 
-Create new power bi dataset,using lakehouse imported dataset by notebook script.
+Create new power BI dataset,using lakehouse imported dataset by notebook script.
 
 ### Step-7
 
-Analyze and see historical chat and deatiled view chart in PowerBI.
+Analyze and see historical chat and detailed view chart in PowerBI.
 
 
 
