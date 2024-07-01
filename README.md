@@ -3,11 +3,11 @@
 Description
 
 
-*Project Description*
+### Project Description
 
 This project aims to track and analyze the price movements of the YAMAHA PACIFICA 012 electric guitar over time. By periodically fetching the current price from various online retailers, the project will build a comprehensive historical dataset. This dataset will then be used to generate reports that provide insights into the price trends and fluctuations of the guitar.
 
-*Features*
+### Features
 
 _Automated Price Fetching:_ 
 Periodically fetches the latest prices of the YAMAHA PACIFICA 012 electric guitar from selected online retailers.
