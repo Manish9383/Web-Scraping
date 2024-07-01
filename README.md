@@ -1,13 +1,13 @@
 # Web-Scraping
-Web Scraping in Microsoft Fabric | End to End Project
+## Web Scraping in Microsoft Fabric | End to End Project
 Description
-*
 
-**Project Description**
+
+*Project Description*
 
 This project aims to track and analyze the price movements of the YAMAHA PACIFICA 012 electric guitar over time. By periodically fetching the current price from various online retailers, the project will build a comprehensive historical dataset. This dataset will then be used to generate reports that provide insights into the price trends and fluctuations of the guitar.
 
-**Features**
+*Features*
 
 _Automated Price Fetching:_ 
 Periodically fetches the latest prices of the YAMAHA PACIFICA 012 electric guitar from selected online retailers.
@@ -21,7 +21,6 @@ _Customizable Intervals:_ Allows customization of the frequency of price checks 
 _Alerts:_ Option to set up alerts for significant price changes or specific price points.
 
 
-*
 
 ### Step-1
 
