@@ -15,7 +15,7 @@ Import all required python library
 ```
 ### Step-4
 ```
-Run python script
+Run python [script](https://github.com/Manish9383/Web-Scraping/blob/main/webscarp.ipynb)
 ```
 ### Step-5
 ```
